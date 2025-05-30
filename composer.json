@@ -49,11 +49,6 @@
         "nunomaduro/laravel-zero" :"*",
         "reactphp-x/laravel-zero" :"*"
     },
-    "replaces" :{
-        "laravel-zero/laravel-zero" :"*",
-        "nunomaduro/laravel-zero" :"*",
-        "reactphp-x/laravel-zero" :"*"
-    },
     "minimum-stability": "stable",
     "prefer-stable": true,
     "bin": ["application"]
