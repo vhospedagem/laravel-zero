@@ -1,10 +1,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/laravel-zero/framework/actions"><img src="https://github.com/vhospedagem/laravel-zero-installer/actions/workflows/tests.yml/badge.svg" alt="Build Status" /></a>
-  <a href="https://packagist.org/packages/vhospedagem/framework"><img src="https://img.shields.io/packagist/dt/vhospedagem/framework.svg" alt="Total Downloads" /></a>
-  <a href="https://packagist.org/packages/vhospedagem/framework"><img src="https://img.shields.io/packagist/v/vhospedagem/framework.svg?label=stable" alt="Latest Stable Version" /></a>
-  <a href="https://packagist.org/packages/vhospedagem/framework"><img src="https://img.shields.io/packagist/l/vhospedagem/framework.svg" alt="License" /></a>
+  <a href="https://github.com/vhospedagem/laravel-zero-installer/actions"><img src="https://github.com/vhospedagem/laravel-zero-installer/actions/workflows/tests.yml/badge.svg" alt="Build Status" /></a>
+  <a href="https://packagist.org/packages/vhospedagem/laravel-zero-installer"><img src="https://img.shields.io/packagist/dt/vhospedagem/laravel-zero-installer.svg" alt="Total Downloads" /></a>
+  <a href="https://packagist.org/packages/vhospedagem/laravel-zero-installer"><img src="https://img.shields.io/packagist/v/vhospedagem/laravel-zero-installer.svg?label=stable" alt="Latest Stable Version" /></a>
+  <a href="https://packagist.org/packages/vhospedagem/laravel-zero-installer"><img src="https://img.shields.io/packagist/l/vhospedagem/laravel-zero-installer.svg" alt="License" /></a>
 </p>
 
 ------
